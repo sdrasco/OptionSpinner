@@ -1,0 +1,33 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Editor / IDE settings
+.vscode/
+.idea/
+
+# Test & type-checker caches
+.pytest_cache/
+.mypy_cache/
+
+# Build / package artifacts
+build/
+dist/
+*.egg-info/
+
+# Script output (cache + CSV)
+sp500_members.json
+sp500_option_liquidity.csv
+
+# macOS cruft
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
