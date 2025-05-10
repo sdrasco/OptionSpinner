@@ -1,5 +1,7 @@
 # OptionSpinner
 
+![OptionSpinner Logo](images/OptionSpinner_small.png)
+
 A tiny Python utility that:
 
 1. **Fetches** the latest S\&P 500 roster (once a week—more than enough).
