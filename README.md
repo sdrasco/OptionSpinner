@@ -1,14 +1,10 @@
 # OptionSpinner
 
-> *“Life? Don’t talk to me about life. Just spin the wheel.”* – The Script
-
-A tiny, mildly depressed Python utility that:
+A tiny Python utility that:
 
 1. **Fetches** the latest S\&P 500 roster (once a week—more than enough).
 2. **Measures** option liquidity for every stock via open interest on the nearest expiry.
 3. **Ranks** them, writes a CSV, and hands you **N random tickers** whose options are comfortably above‑median liquid.
-
-No cosmic ambitions. Just a bot trying not to annoy Wikipedia.
 
 ---
 
